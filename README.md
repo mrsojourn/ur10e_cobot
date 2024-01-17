@@ -3,6 +3,8 @@ _Universal Robot - Cobots Basic Programming_
 
 ## Basic Movement control for Universal Robots using Hand Gestures and Web Camera
 
+## Demo Video: <a href="https://youtu.be/oojnQzC8snI?si=TZHDBj-BuyuO2op3"> >>> Click Here: YouTube link <<<</a>
+
 ### Packages USED!
 1. OpenCV - Webcamera
 2. Hand Gesture - Mediapipe
